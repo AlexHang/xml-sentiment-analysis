@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE emotions SYSTEM "exercitiu2.dtd">
+<emotions>
+    <emotion>
+        <name>Curiosity</name>
+        <description>It induces self-regulated learning, during which the learner uses proven learning strategies </description>
+
+    </emotion>
+    <emotion>
+        <name>Anxiety</name>
+        <description>This type of emotion typically arises from a lack of preparation to teach or discipline problems in the classroom</description>
+        
+    </emotion>
+    
+    <emotion>
+        <name>Frustration</name>
+        <description>It can lead to a strong tendency to avoid failure, and induce a greater investment in the task</description>
+    </emotion>
+    
+    <emotion>
+        <name>Confusion</name>
+        <description> Being particularly conducive to deliberation, it is relevant to induce this state in order to improve learning. </description>
+    </emotion>
+    
+    <emotion>
+        <name> Depression </name>
+        <description>Feeling very sad for a long time</description>
+    </emotion>
+    
+    <emotion>
+        <name>Catastrophism </name>
+        <description> The tendency to imagine that an event is a disaster, or that things are worse than they actually are </description>
+    </emotion>
+    
+    <emotion>
+        <name> Contentment </name>
+        <description> Strong feeling of satisfaction </description>
+    </emotion>
+    
+    <emotion>
+        <name>Positive </name>
+        <description>Were linked to positive outcomes in terms of academic achievement</description>
+    </emotion>
+    
+    <emotion>
+        <name> Negatives </name>
+        <description> Are linked to a decrease in student achievement and ability to learn. </description>
+    </emotion>
+    
+    <emotion>
+        <name> The Commitment </name>
+        <description> results in a moderate learning gain,</description>
+    </emotion>
+    
+    <emotion>
+        <name> Fear </name>
+        <description> All of these upheavals can create tension within you. And if these internal tensions exceed your energy reserves, you will logically feel stress. </description>
+    </emotion>
+    
+    <emotion>
+        <name> Pain </name>
+        <description>the condition or quality of being sad</description>
+    </emotion>
+    
+    <emotion>
+        <name> Discomfort </name>
+        <description>Is broadly applicable and may suggest discomfort, inconvenience, lack of muscle control, awkwardness, or lack of tact</description>
+    </emotion>
+    
+    <emotion>
+        <name> Inability </name>
+        <description>He does not have the capacity, qualification or strength necessary to perform a specific act or function</description>
+    </emotion>
+    
+    <emotion>
+        <name>Relief</name>
+        <description> A feeling of comfort and relaxation after the release of anxiety or distress </description>
+    </emotion>
+
+    <emotion>
+        <name> Security </name>
+        <description> The condition of being protected or unlikely to cause danger, risk or injury. </description>
+    </emotion>
+    
+</emotions>

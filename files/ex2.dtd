@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT emotions (emotion+)>
+<!ELEMENT emotion (name, description)>
+<!ELEMENT name (#PCDATA) >
+<!ELEMENT description (#PCDATA) >

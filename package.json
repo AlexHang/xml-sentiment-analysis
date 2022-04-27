@@ -1,0 +1,17 @@
+{
+  "name": "projet-sw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Hang, Imola Puskas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "xml2json": "^0.12.0"
+  }
+}

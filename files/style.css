@@ -1,0 +1,21 @@
+table,th,td {
+    border : 1px solid black;
+    border-collapse: collapse;
+    margin: 15px;
+  }
+
+th,td {
+    padding: 5px;
+  }
+
+body {
+    padding: 15px;
+}
+
+.card {
+    margin: 15px;
+}
+
+#title {
+    margin: 15px;
+}
