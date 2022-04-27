@@ -9,7 +9,8 @@ th,td {
   }
 
 body {
-    padding: 15px;
+    padding: 0px;
+    overflow-x: hidden;
 }
 
 .card {
@@ -17,5 +18,23 @@ body {
 }
 
 #title {
-    margin: 15px;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+
+.container-fluid{
+  padding: 0px!important;
+}
+
+footer{
+  background-color: black;
+  height: 100px;
+  padding: 15px;
+  color: white;
+  text-align: center;
+}
+
+.btn-primary{
+  background-color: black!important;
 }
